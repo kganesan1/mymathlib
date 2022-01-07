@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>K. Ganesan</authors>
+    <description>A test library to experiment with nuget publish step.</description>    
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/kganesan1/samplecloudservice/</projectUrl>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>InitialVersion</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Microsoft.Owin" version="4.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies> 
+  </metadata>
+</package>

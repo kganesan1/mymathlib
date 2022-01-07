@@ -1,0 +1,6 @@
+C:\Users\kgane\source\repos\MyMathLib\MyMathLib\bin\Release\Seekout.KGMathLibTest.dll
+C:\Users\kgane\source\repos\MyMathLib\MyMathLib\bin\Release\Seekout.KGMathLibTest.pdb
+C:\Users\kgane\source\repos\MyMathLib\MyMathLib\obj\Release\MyMathLib.csproj.AssemblyReference.cache
+C:\Users\kgane\source\repos\MyMathLib\MyMathLib\obj\Release\MyMathLib.csproj.CoreCompileInputs.cache
+C:\Users\kgane\source\repos\MyMathLib\MyMathLib\obj\Release\Seekout.KGMathLibTest.dll
+C:\Users\kgane\source\repos\MyMathLib\MyMathLib\obj\Release\Seekout.KGMathLibTest.pdb
